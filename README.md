@@ -22,7 +22,7 @@ Scribefy is built on a highly scalable, decoupled three-tier architecture:
 
 ### Frontend (Presentation Tier)
 * **Framework:** React (Single Page Application)
-* **UI/UX:** Figma-designed, responsive, mobile-first approach
+* **UI/UX:** Figma-designed, responsive, mobile-first approach for efficient user experience
 
 ### Backend & Infrastructure (Service Tier)
 * **Platform:** Google Firebase Suite
